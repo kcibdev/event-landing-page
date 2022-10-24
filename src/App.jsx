@@ -4,6 +4,7 @@ import Features from "./pages/Features";
 import HomePage from "./pages/Home";
 import Intro from "./pages/Intro";
 import Waitlist from "./pages/Waitlist";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Intro />
       <Features />
       <Waitlist />
+      <Contact />
       <Footer />
     </>
   );

@@ -4,18 +4,17 @@ import Mockup from "../assets/images/mockup.png";
 const HomePage = () => {
   return (
     <div className="mt-[100px] pt-10 md:pt-0" id="home">
-      <div className="home__container md:h-[calc(100vh_-_100px)] flex justify-around md:flex-row flex-col items-center px-4 md:px-10">
+      <div className="home__container md:h-[calc(100vh_-_100px)] flex justify-around md:flex-row flex-col items-center px-4 md:px-14">
         <div className="home__info px-4 flex-1 text-center md:text-left">
           <h1 className="home__info--title text-4xl md:text-5xl font-bold">
-            Discover <span className="text-[#e65728]">Events</span>
-            <br /> All around you
+            Meet & <span className="text-[#e65728]">Connect</span>
+            <br /> With interesting people
           </h1>
           <p className="home__info--description text-sm md:text-lg mt-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            voluptate, quod, quia, voluptates quae voluptatibus quidem
-            necessitatibus voluptatum quibusdam quas dolorum.
+            Get ready to explore the world of events and activities around you.
+            And meet like minded people with the same interest as you.
           </p>
-          <div className="home__info--waitlist mt-3 w-full md:w-[80%]">
+          <div className="home__info--waitlist mt-5 w-full md:w-[80%]">
             <div className="waitlist__content flex items-center border-2 border-[#e65728] rounded-md p-[2px] h-[50px]">
               <input
                 type="text"

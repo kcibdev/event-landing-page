@@ -7,7 +7,7 @@ const Waitlist = () => {
       <div className="waitlist__container bg-[#e65728] flex flex-col md:flex-row items-center justify-around px-5 md:px-0 py-10">
         <div className="waitlist__details">
           <h1 className="waitlist__details--title text-white text-3xl md:text-4xl font-semibold">
-            Eventmit is coming <br /> to your device very soon
+            Connectuz is coming <br /> to your device very soon
           </h1>
           <h1 className="waitlist__details--join text-gray-100 text-xl font-semibold">
             Join the waitlist

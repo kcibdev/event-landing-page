@@ -23,7 +23,7 @@ const Contact = () => {
             <FiMail className="text-2xl text-gray-600" />
             <div className="details__item--content pl-4">
               <h1 className="content__title text-xl font-semibold ">Email</h1>
-              <p className="content__body text-gray-500">Eventmit@gmail.com</p>
+              <p className="content__body text-gray-500">Connectuz@gmail.com</p>
             </div>
           </div>
           <div className="contact__details--item flex items-center mb-5">

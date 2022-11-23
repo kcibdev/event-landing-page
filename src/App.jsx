@@ -5,6 +5,7 @@ import HomePage from "./pages/Home";
 import Intro from "./pages/Intro";
 import Waitlist from "./pages/Waitlist";
 import Contact from "./pages/Contact";
+// import Screenshots from "./pages/Screenshot";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <HomePage />
       <Intro />
       <Features />
+      {/* <Screenshots /> */}
       <Waitlist />
       <Contact />
       <Footer />

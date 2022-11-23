@@ -11,7 +11,7 @@ const Footer = () => {
           </div>
           <div className="footer__copyright mt-5 md:mt-0">
             <p className="text-gray-400 text-sm">
-              © 2022 Eventmit. All rights reserved.
+              © 2022 Connectuz All rights reserved.
             </p>
           </div>
           <ul className="footer__links flex items-center mt-5 md:mt-0">
